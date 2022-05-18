@@ -66,4 +66,5 @@ print("The coefficient of Correlation is  %0.4f"%r)
 
 
 # Result:
-     Finding marginal distributions and correlation coefficient of joint probability mass funcition of two dimensional random variables has been implemented successfully.
+     Finding marginal distributions and correlation coefficient of joint probability mass funcition of two dimensional 
+     random variables was implemented successfully.
