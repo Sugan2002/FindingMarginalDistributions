@@ -60,7 +60,7 @@ print("The coefficient of Correlation is  %0.4f"%r)
 ```
 
 
-# Output : 
+# Output: 
 
 ![Exp3_output](https://user-images.githubusercontent.com/77089743/168961085-03a29f71-d667-4318-b497-e20463bbc117.PNG)
 
