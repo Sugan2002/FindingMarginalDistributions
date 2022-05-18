@@ -1,4 +1,4 @@
-# Marginal distributions and correation coefficient  
+# Marginal distributions and correlation coefficient  
 
 # Aim : 
 
