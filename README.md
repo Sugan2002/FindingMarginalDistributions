@@ -27,9 +27,10 @@ Correlation coefficients are indicators of the strength of the linear relationsh
 
 # Program
 
+```python
 # Developed by
 # Register Number: 212220230049
-# Name           : P.SUGANYA
+# Name: P.Suganya
 
 import numpy as np
 import math
@@ -56,7 +57,7 @@ for i in range(4):
 COV=EXY-Ex*Ey
 r=COV/(SX*SY)
 print("The coefficient of Correlation is  %0.4f"%r)
-
+```
 
 
 # Output : 
